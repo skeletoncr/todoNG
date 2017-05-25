@@ -1,0 +1,20 @@
+{
+  "name": "jsonwithangular",
+  "version": "1.0.0",
+  "description": "example of angularjs with json",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rodney Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "method-override": "^2.3.9",
+    "mongodb": "^2.2.27",
+    "mongoose": "^4.10.2",
+    "morgan": "^1.8.2"
+  }
+}
